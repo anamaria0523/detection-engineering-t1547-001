@@ -20,8 +20,8 @@ técnicas más comunes usadas por malware y atacantes para sobrevivir a reinicio
 ## 📋 Progreso del proyecto
 
 - [x] **Paso 1:** Data Source — Instalación y configuración de Sysmon
-- [ ] **Paso 2:** Detection Logic — Escritura de regla Sigma para Event ID 13
-- [ ] **Paso 3:** Test & Validate — Simulación de la técnica y validación de la detección
+- [x] **Paso 2:** Detection Logic — Escritura de regla Sigma para Event ID 13
+- [x] **Paso 3:** Test & Validate — Simulación de la técnica y validación de la detección
 - [ ] **Paso 4:** Deploy & Monitor — Consideraciones de despliegue en un SIEM
 
 ## 📚 Documentación
@@ -29,6 +29,7 @@ técnicas más comunes usadas por malware y atacantes para sobrevivir a reinicio
 | Paso | Documento |
 |------|-----------|
 | 1. Data Source | [docs/01-data-source-setup.md](docs/01-data-source-setup.md) |
+| 3. Test & Validate | [docs/03-test-validate.md](docs/03-test-validate.md) |
 
 ## 🔗 Referencias
 - [MITRE ATT&CK - T1547.001](https://attack.mitre.org/techniques/T1547/001/)
