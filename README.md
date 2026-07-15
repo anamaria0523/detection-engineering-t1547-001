@@ -29,7 +29,7 @@ técnicas más comunes usadas por malware y atacantes para sobrevivir a reinicio
 | Paso | Documento |
 |------|-----------|
 | 1. Data Source | [docs/01-data-source-setup.md](docs/01-data-source-setup.md) |
-| 2. Detection Logic | [detection-rules/t1547-001-registry-run-keys.yml](detection-rules/t1547-001-registry-run-keys.yml) |
+| 2. Detection Logic | [docs/02-detection-logic.md](docs/02-detection-logic.md) |
 | 3. Test & Validate | [docs/03-test-validate.md](docs/03-test-validate.md) |
 
 ## 🔗 Referencias
